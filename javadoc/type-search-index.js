@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.my.projects.fileAccess.controller","l":"FileAccessController"}]
